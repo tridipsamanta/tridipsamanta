@@ -18,6 +18,16 @@
 - 📄 Know about my experiences [https://portfolio-six-sooty-14.vercel.app/](https://portfolio-six-sooty-14.vercel.app/)
 
 - ⚡ Fun fact **I am a Independent Thinker....**
+# Tridip Samanta
+
+Hi, I'm Tridip Samanta 👋  
+GitHub username: tridipsamanta  
+
+- Software Developer
+- Open Source Contributor
+- Projects in JavaScript / Python / React (edit as needed)
+
+🔗 GitHub Profile: https://github.com/tridipsamanta
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
